@@ -1,0 +1,8 @@
+com\example\batchprocessing\JobCompletionNotificationListener.class
+com\example\batchprocessing\BatchJob.class
+com\example\batchprocessing\XMLSource.class
+com\example\batchprocessing\Person.class
+com\example\batchprocessing\BatchProcessingApplication.class
+com\example\batchprocessing\PersonItemProcessor.class
+com\example\batchprocessing\ApplicationRunnerImpl.class
+com\example\batchprocessing\Job.class
